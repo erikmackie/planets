@@ -1,6 +1,11 @@
 Cold and dry, but everything is my favourite colour.
 But the two moons might be a problem for Wolfman.
 This is another line
+<<<<<<< HEAD
 I am altering the planet Mars.
 
 This is gonna get complicated. 
+=======
+I am altering the planet Mars. 
+Mars is a red planet and ice has been found on the surface.
+>>>>>>> 8a0d9865252654c5bc82e3793361a71eb81da74b
